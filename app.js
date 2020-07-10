@@ -1,0 +1,1 @@
+console.log("Me faltaba una consola de mensajes en js")
